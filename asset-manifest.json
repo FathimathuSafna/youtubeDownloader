@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtubeDownloader/static/css/main.2e9a1542.css",
+    "main.js": "/youtubeDownloader/static/js/main.7df18b8a.js",
+    "index.html": "/youtubeDownloader/index.html",
+    "main.2e9a1542.css.map": "/youtubeDownloader/static/css/main.2e9a1542.css.map",
+    "main.7df18b8a.js.map": "/youtubeDownloader/static/js/main.7df18b8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e9a1542.css",
+    "static/js/main.7df18b8a.js"
+  ]
+}
